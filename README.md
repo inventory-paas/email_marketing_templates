@@ -10,7 +10,7 @@
 | screenshot                                                      | name                                           |
 | --------------------------------------------------------------- | ---------------------------------------------- |
 | ![Autumn is on the way](./screenshots/autumn-is-on-the-way.png) | [Autumn is on the way](./autumn-is-on-the-way) |
-|                                                                 |                                                |
+| ![New year snow queen](./screenshots/new-year-snow-queen.png)   | [New year snow queen](./new-year-snow-queen)   |
 |                                                                 |                                                |
 |                                                                 |                                                |
 |                                                                 |                                                |
