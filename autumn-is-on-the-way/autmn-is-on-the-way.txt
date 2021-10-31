@@ -1,0 +1,15 @@
+homeLink
+logo
+catalogLink
+catagoriesLink
+content 
+startShoppingLink
+phoneNumber
+facebookLink
+instagramLink
+twitterLink
+youtubeLink
+locationLink
+contactLink
+helpLink
+privacyLink
