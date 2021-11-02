@@ -13,7 +13,7 @@
 | ![New year snow queen](./screenshots/new-year-snow-queen.png)   | [New year snow queen](./new-year-snow-queen)   |
 | ![Women's day offers](./screenshots/womens-day-offers.png)      | [Women's day offers](./womens-day-offers)      |
 | ![Christmas offers](./screenshots/christmas-offers.png)         | [Christmas sale](./christmas-offers/)          |
-|                                                                 |                                                |
+| ![Independence day offers](./screenshots/independence-day-offers.png)  | [Independence day offers](./independence-day-offers)        |
 |                                                                 |                                                |
 |                                                                 |                                                |
 |                                                                 |                                                |
